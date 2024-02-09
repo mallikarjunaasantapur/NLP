@@ -2,4 +2,4 @@
 
 |Sl.No|Program|Date|
 |--|--|--|
-|1|[Tokenization(./AI/5_WaterJug.py)|09/02/2024|
+|1|[Tokenization](./1.Tokenization%20using%20python.ipynb.)|09/02/2024|
